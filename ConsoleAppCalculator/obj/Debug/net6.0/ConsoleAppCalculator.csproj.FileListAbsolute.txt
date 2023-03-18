@@ -1,0 +1,15 @@
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.exe
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.deps.json
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.runtimeconfig.json
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.dll
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\net6.0\ConsoleAppCalculator.pdb
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.csproj.AssemblyReference.cache
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.AssemblyInfoInputs.cache
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.AssemblyInfo.cs
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.dll
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\refint\ConsoleAppCalculator.dll
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.pdb
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ConsoleAppCalculator.genruntimeconfig.cache
+D:\22.11.4761\pertemuan1\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\net6.0\ref\ConsoleAppCalculator.dll
